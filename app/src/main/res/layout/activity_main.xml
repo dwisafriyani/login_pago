@@ -12,6 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Welcome To My Apps"
+        android:textColor="@color/pink"
         android:gravity="center"
         android:textStyle="bold"
         android:textSize="45dp"
