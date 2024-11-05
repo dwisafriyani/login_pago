@@ -14,6 +14,7 @@
         android:layout_marginTop="48dp"
         android:gravity="center"
         android:text="REGISTER"
+        android:textColor="@color/pink"
         android:textSize="45dp"
         android:textStyle="bold" />
 
